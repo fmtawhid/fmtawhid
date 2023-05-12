@@ -30,22 +30,19 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+### 👨🏽‍💻 &nbsp; My Skills:
 
-#### Used my project:
+#### Main Skill :
 
 [<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
 [<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
 [<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
 [<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />]
 [<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />]
 [<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
 [<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />]
 [<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
+
 
 <br />
 <br />
@@ -54,7 +51,7 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
 
-#### Other Skills & Project:
+#### Other Basic Skills :
 
 [<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
 [<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />]
@@ -65,7 +62,13 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 <br/>
 <br/>
 
+
+### Project
+
 - [Restudent Website Template ][tikkaway]
+<br/>
+<br/>
+
 
   <!-- other skills and my videos for computer science section ends here  -->
 
@@ -89,11 +92,6 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 
 <!-- work experience section starts here  -->
 
-### 💼 &nbsp; Employment History
-
-| Position            | Company                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------| ------------------- | ------------------ |
-| Web Designer        | fiverr                                    | Aug 2020 - Running  | Remote , USA       |
 
 <br />
 <!-- work experience section ends here  -->
@@ -125,7 +123,7 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
-- 🇮🇳 Hindi : Intermediate
+- 🇮🇳 Hindi : Basic
 - 🇧🇷 Gremany : Basic
   <br />
 
@@ -146,7 +144,7 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 
 ### 🏅 Honors & Awards :
 
-- Best Python in Infra
+- Best Python in Infra Polytechnic Institute
 
 ---
 
