@@ -9,7 +9,7 @@ A Part time Full Stack Web Developer & Full Time Learner
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="left" alt="instagram" title="instagram link" width="45" hspace="5" src="./images/instagram.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
@@ -34,14 +34,14 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 
 #### Main Skill :
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />]
+<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />
+<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />
+<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />
+<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />
+<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
+img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
 
 
 <br />
@@ -57,7 +57,6 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 [<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />]
 [<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
 [<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />]
 <br/>
 <br/>
 <br/>
