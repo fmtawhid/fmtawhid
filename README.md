@@ -41,7 +41,7 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 <img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />
 <img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />
 <img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
-img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
+<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
 
 
 <br />
@@ -53,18 +53,20 @@ img align="left" alt="python" title="python playlist" width="45" hspace="5" src=
 
 #### Other Basic Skills :
 
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
-[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
+<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
+<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
+<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
+<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
 <br/>
 <br/>
 <br/>
 
 
 ### Project
+## Project
+# Project
 
-- [Restudent Website Template ][tikkaway]
+- https://github.com/users/fmtawhid/projects/7/
 <br/>
 <br/>
 
