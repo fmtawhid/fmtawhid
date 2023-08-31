@@ -50,16 +50,16 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 <br/>
 
 <p align="center">
-    <a href="https://github.com/me6edi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="me6edi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=me6edi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/fmtawhid/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="fmtawhid streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fmtawhid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/me6edi/github-readme-stats"><img alt="Mehedi Amin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=me6edi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/me6edi/github-readme-stats"><img alt="Mehedi Amin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me6edi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/fmtawhid/github-readme-stats"><img alt="Tawhid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fmtawhid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/fmtawhid/github-readme-stats"><img alt="Tawhid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmtawhid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,7 +67,7 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 <br/>
 <br/>
 
-<a href="https://github.com/me6edi/github-readme-activity-graph"><img alt="Mehedi Amin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=me6edi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/fmtawhid/github-readme-activity-graph"><img alt="Tawhid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fmtawhid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
