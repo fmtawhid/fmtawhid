@@ -9,7 +9,7 @@ A Part time Full Stack Web Developer & Full Time Learner
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="instagram" title="instagram link" width="45" hspace="5" src="./images/instagram.svg" />][youtube]
+[<img align="left" alt="instagram" title="instagram link" width="45" hspace="5" src="./images/instagram.svg" />][instagram]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
