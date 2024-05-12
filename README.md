@@ -22,7 +22,7 @@ A Part time Full Stack Web Developer & Full Time Learner
 ## 🙋‍♂️ About Me
 
 <p align="justify">
-I am a passionate Full Stack Web Developer and Designer. I have completed many projects in programming languagI have had the opportunity to work on many programming related projects in my institute. After completing my SSC 2020, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my Project and others.
+Hi I am Tawhid, I have completed Diploma 7th semester in computer department from SSR institute. I know how to develop a website using Python with Django. I know HTML CSS, some JavaScript, Python with Django, some MySQL and WordPress.I have complate 3 Project using Django. Uploaded to my Github. I worked in Tech llc company as Web Developer. I want to work with you to improve my skills.
 </p>
 
 <br /><br />
@@ -49,15 +49,9 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-
 <br/>
 
 <p align="center">
@@ -120,7 +114,7 @@ I am a passionate Full Stack Web Developer and Designer. I have completed many p
 
 ### Sports / Game / Activities / Hobby:
 
-- ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- ⚽ Football
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
@@ -144,7 +138,7 @@ All rights reserved by fmtawhid @2023
 
 <!-- Links section starts here -->
 
-[youtube]: https://www.instagram.com/fmtawhid/
+[instagram]: https://www.instagram.com/fmtawhid/
 [facebook]: https://www.facebook.com/fmtawhid1
 [linkedin]: https://www.linkedin.com/in/fmtawhid/
 [github]: https://github.com/fmtawhid
