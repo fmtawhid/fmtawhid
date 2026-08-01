@@ -1,133 +1,160 @@
-
-<h1 align="center">
-Hi 👋, I'm Md Tawhidul Islam
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Md%20Tawhidul%20Islam&fontAlignY=38&fontSize=45&desc=Full%20Stack%20Software%20Developer%20|%20Laravel%20|%20Django%20|%20Next.js&descAlignY=60&animation=fadeIn"/>
+</p>
 
 <h3 align="center">
-Full Stack Web Developer | Laravel • Django • Next.js • React | AI & SaaS Builder
+🚀 Full Stack Software Developer | Laravel • Django • Next.js • React • AI & SaaS Builder
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Laravel+%26+Django+Backend+Developer;Next.js+%26+React+Frontend;REST+API+Developer;Building+SaaS+Applications;Learning+AI+Automation+%26+Cloud" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Laravel+Backend+Developer;Django+Developer;Full+Stack+Software+Engineer;REST+API+Developer;Building+SaaS+Applications;System+Architecture+Designer;AI+Automation+Enthusiast" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fmtawhid&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<a href="https://github.com/fmtawhid">
+<img src="https://img.shields.io/github/followers/fmtawhid?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/fmtawhid?tab=repositories">
+<img src="https://img.shields.io/github/stars/fmtawhid?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=fmtawhid&style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-💻 Full Stack Web Developer from Bangladesh
+✔ Full Stack Software Developer from Bangladesh
 
-🚀 Specialized in Backend Development using Laravel & Django
+✔ Backend Specialist (Laravel & Django)
 
-⚛️ Building modern web applications with Next.js & React
+✔ React & Next.js Frontend Development
 
-🛒 Experienced in SaaS, POS, ERP & E-commerce Systems
+✔ SaaS | ERP | POS | OTT | E-commerce Systems
 
-🔗 Skilled in REST API Development & Third-party API Integration
+✔ REST API Development
 
-☁️ Learning AI Automation, Docker & Cloud Deployment
+✔ API Integration
 
-🌍 Open to Remote & International Opportunities
+✔ System Architecture Design
+
+✔ Team Leadership & Project Management
+
+✔ AI Automation
+
+✔ Open to Remote & International Opportunities
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,django,python,javascript,typescript,react,nextjs,tailwind,bootstrap,mysql,postgresql,sqlite,docker,git,github,postman,vscode&perline=9"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/fmtawhid">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/fmtawhid">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://fmtawhid.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/fmtawhid">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:tawhid0406@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 📊 GitHub Statistics
 
-### Languages
+<p align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fmtawhid&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Backend
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fmtawhid&theme=tokyonight&hide_border=true"/>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+</p>
 
-### Frontend
+<p align="center">
 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap)
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmtawhid&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=fmtawhid&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=fmtawhid&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fmtawhid&layout=compact&theme=tokyonight&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fmtawhid&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=fmtawhid&theme=tokyonight&no-frame=true)
+> GitHub Trophy may occasionally be unavailable because of the external service.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fmtawhid&theme=algolia&margin-w=15&margin-h=15&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 # 🚀 Featured Projects
 
-⭐ Dokan Pro SaaS POS & ERP
-
-⭐ Travel ERP Management System
-
-⭐ Restaurant POS System
-
-⭐ E-commerce Platform
-
-⭐ AI Automation Solutions
-
-⭐ Educational Management System
+| Project | Tech |
+|---------|------|
+| 🛒 DokanPro SaaS POS & ERP | Laravel, MySQL |
+| ✈ Travel ERP | Laravel |
+| 📺 OTT Platform | Laravel |
+| 🏥 Pharmacy Management | Django |
+| 🏫 Educational Management | Laravel |
+| 🤖 AI Automation | Python |
 
 ---
 
-## 📫 Contact
+# 💼 Current Focus
 
-📧 Email: your-email@gmail.com
+🔹 Laravel 12
 
-🌐 Portfolio: https://fmtawhid.github.io
+🔹 Django REST Framework
 
-💼 LinkedIn: https://linkedin.com/in/fmtawhid
+🔹 Next.js 15
+
+🔹 AI Automation
+
+🔹 Docker
+
+🔹 AWS
+
+---
+
+# 📫 Contact
+
+📧 tawhid0406@gmail.com
+
+🌍 https://fmtawhid.github.io
+
+💼 https://linkedin.com/in/fmtawhid
+
+🐙 https://github.com/fmtawhid
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</p>
