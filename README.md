@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/fmtawhid?tab=repositories">
-<img src="https://img.shields.io/github/stars/fmtawhid?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/fmtawhid?style=for-the-badge&cacheSeconds=300">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=fmtawhid&style=for-the-badge"/>
